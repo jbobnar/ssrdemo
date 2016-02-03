@@ -1,8 +1,8 @@
 # Description:
 # Testing multiple data types test test
 #
-PV
-TEST1
-TEST2
-TEST3
-TEST4
+PV,READBACK
+TEST1,
+TEST2,
+TEST3,TEST3a
+TEST4,
