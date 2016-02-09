@@ -2,7 +2,7 @@
 # One very special beamline
 #
 PV,READBACK,DELTA
-staticPV101,staticPV111,20
-staticPV102,staticPV112,20
-staticPV103,staticPV113,20
+staticPV101,staticPV111,2*x
+staticPV102,staticPV112,3*x
+staticPV103,staticPV113,x/2
 staticPV104,staticPV114,20
