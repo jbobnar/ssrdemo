@@ -2,7 +2,7 @@
 # One very special beamline
 #
 PV,READBACK,DELTA
-staticPV101,staticPV111,abs(base-value) < 20
+staticPV101,staticPV111,Math.abs(base-value) < 20
 staticPV102,staticPV112,x*3
 staticPV103,staticPV113,x/2
 staticPV104,staticPV114,20
