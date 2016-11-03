@@ -1,0 +1,6 @@
+# Description:
+# Example
+#
+PV,READBACK
+staticPV230,demoChannel_000
+,staticPV231
