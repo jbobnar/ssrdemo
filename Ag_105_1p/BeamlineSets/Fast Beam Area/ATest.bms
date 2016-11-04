@@ -1,6 +1,6 @@
 # Description:
 # Example
 #
-PV,READBACK
-staticPV230,demoChannel_000
-,staticPV231
+PV,READBACK,DELTA,READ_ONLY
+staticPV230,demoChannel_000,,true
+staticPV231,,,false
